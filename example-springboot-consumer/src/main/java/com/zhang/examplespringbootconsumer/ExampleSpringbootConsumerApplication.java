@@ -14,7 +14,7 @@ public class ExampleSpringbootConsumerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ExampleSpringbootConsumerApplication.class, args);
-        System.out.println("asfdsadfasdf");
+        System.out.println("asfdsadfasdffasdfas");
     }
 
 }
