@@ -5,10 +5,6 @@ import cn.hutool.setting.dialect.Props;
 
 /**
  * 配置工具类
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @learn <a href="https://codefather.cn">程序员鱼皮的编程宝典</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
  */
 public class ConfigUtils {
 
